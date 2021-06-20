@@ -2,7 +2,8 @@
    I am from Perú 🇵🇪 and I am 21 years old.
    I am studying to be a frontend developer and here are my repositories.
    A bug does not bring me down 😆
-   My email : <a href='rivaldoestebang@gmail.com'> rivaldoestebang@gmail.com</a> ✉️
+   
+Contact : <a href='rivaldoestebang@gmail.com'> rivaldoestebang@gmail.com</a> ✉️
 <!--
 **RivaldoEsteban/RivaldoEsteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
