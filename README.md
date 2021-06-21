@@ -2,7 +2,6 @@
    I am from Perú 🇵🇪 and I am 21 years old.
    I am studying to be a frontend developer and here are my repositories.
    A bug does not bring me down 😆
-   Twitter: RivaldoEsteban_
    
 Contact : <a href='rivaldoestebang@gmail.com'> rivaldoestebang@gmail.com</a> ✉️
 <!--
