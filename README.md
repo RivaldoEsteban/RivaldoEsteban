@@ -1,7 +1,7 @@
 ### Hi, I'm Rivaldo 👋 🤟 💻
    I am from Perú 🇵🇪 and I am 21 years old.
    I am studying to be a frontend developer and here are my repositories.
-   A bug does not bring me down 😆
+   A bug doesn't bring me down 😆
    
 Contact : <a href="mailto:rivadoestebang@gmail.com" target="_blank"> rivaldoestebang@gmail.com</a> ✉️
 <!--
